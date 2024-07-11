@@ -1,5 +1,3 @@
-Creating a README file for your project helps others understand its purpose, how to set it up, and how to use it effectively. Here's a basic outline you can use for your project:
-
 ---
 
 # Neighborhood Analysis in Mumbai
